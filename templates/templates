@@ -1,2 +1,12 @@
-drake.jpg
-wojak.jpg
+TEMPLATES = [
+"tamplates/photo_2025-10-24_00-45-01.jpg",
+"tamplates/photo_2025-10-24_00-45-19.jpg",
+"tamplates/photo_2025-10-24_00-45-23.jpg",
+"tamplates/photo_2025-10-24_00-45-26.jpg",
+"tamplates/photo_2025-10-24_00-45-30.jpg",
+"tamplates/photo_2025-10-24_00-45-34.jpg",
+"tamplates/photo_2025-10-24_00-45-38.jpg",
+"tamplates/photo_2025-10-24_00-45-44.jpg",
+"tamplates/photo_2025-10-24_00-45-47.jpg",
+"tamplates/photo_2025-10-24_00-45-51.jpg",
+]
