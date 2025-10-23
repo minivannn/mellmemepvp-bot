@@ -12,5 +12,5 @@ play.register(dp)
 vote.register(dp)
 leaderboard.register(dp)
 
-if name == "__main__":
+if __name__ == "__main__":
     executor.start_polling(dp)
