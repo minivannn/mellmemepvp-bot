@@ -1,4 +1,3 @@
-handlers/play.py
 from aiogram import Dispatcher, types
 from services.meme_generator import generate_meme_pair
 from aiogram.types import InputFile, InlineKeyboardMarkup, InlineKeyboardButton
