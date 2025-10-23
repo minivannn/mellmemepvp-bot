@@ -1,1 +1,7 @@
 handlers/start.py
+from aiogram import Dispatcher, types
+
+def register(dp: Dispatcher):
+    @dp.message_handler(commands=["start"])
+    async def start_cmd(message: types.Message):
+        await message.answer("👋 Привет! Это MellMemePvP Bot.\n\nОтправь /play чтобы начать битву мемов!")
