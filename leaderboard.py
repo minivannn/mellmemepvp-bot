@@ -1,4 +1,3 @@
-handlers/leaderboard.py
 from aiogram import Dispatcher, types
 from services.sheets import get_leaderboard
 
