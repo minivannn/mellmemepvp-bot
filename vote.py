@@ -1,4 +1,3 @@
-handlers/vote.py
 from aiogram import Dispatcher, types
 from services.sheets import record_vote
 
